@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+# ignore generated/output data
+*_Clean_data.csv
+*_duplicates.csv
+
