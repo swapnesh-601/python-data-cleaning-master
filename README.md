@@ -129,6 +129,17 @@ The application was built by following and practicing concepts explained in his 
 
 Special thanks to Zero Analyst for the guidance and learning resources.
 
+## Screenshots
+
+### Project Folder Structure
+![Project Folder Structure](assets/images/data-cleaning-app-project-structure.png)
+
+---
+
+### Terminal Execution Output
+![Terminal Output](assets/images/data-cleaning-app-terminal-output.png)
+
+
 
 
 
