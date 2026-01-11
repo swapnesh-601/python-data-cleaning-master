@@ -132,7 +132,7 @@ Special thanks to Zero Analyst for the guidance and learning resources.
 ## Screenshots
 
 ### Project Folder Structure
-![Project Folder Structure](assets/images/data-cleaning-app-project-structure.png)
+![Project Folder Structure](assets/images/project-folder-structure-data-cleaning-app.png)
 
 ---
 
